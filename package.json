@@ -1,0 +1,28 @@
+{
+  "name": "todos_api",
+  "version": "1.0.0",
+  "description": "Creating JSON API with NodeJS and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanpixxer/json-api-with-node-mongo.git"
+  },
+  "keywords": [
+    "JSON",
+    "Express",
+    "NodeJS",
+    "MongoDB"
+  ],
+  "author": "Darrell Chaddock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanpixxer/json-api-with-node-mongo/issues"
+  },
+  "homepage": "https://github.com/vanpixxer/json-api-with-node-mongo#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
