@@ -1,4 +1,4 @@
-// Creat the Schema for the app
+// Create the Schema for the app
 
 var mongoose = require('mongoose');
 
